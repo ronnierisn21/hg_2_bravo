@@ -1,32 +1,26 @@
-## **BIENVENIDO AL REPOSITORIO HG_1_DELTA** 👩‍💻
+## **BIENVENIDO AL REPOSITORIO HG_2_BRAVO** 👩‍💻
 
-##  Alias Delta  (Encargado del repositorio)
+##  Alias Bravo  (Encargado del repositorio)
 
-#####  Integrantes del equipo: 
- 1.  Fabiola
- 2.  David
- 3.  Winderson
- 4.  Ronnieris
- 5.  Talos
  
 #####  Tabla de integrantes:
 
+|  Integrantes |  Nombres |
+| ------------ | ------------ |
+| 1  |  Maria de los Angeles |
+| 2   |  Ronnieris Nadal (Bravo)  |
+| 3  |  Hern�n Farf�n |
+| 4  |  Anthony Guaina  |
+
+#####  Actividades a Realizar:
+
 |  Hacks |  Details |
 | ------------ | ------------ |
-| H-1  |  Pull Request alfa (Fabiola) |
-| H-2   | Pull Request bravo (David)  |
-| H-3  |  Pull Request charlie (Winderson) |
-| H-4  | Pull Request delta (Ronnieris)  |
-| H-5  | Pull Request echo (Talos)  |
+| H-1  |  Hacks  |
+| H-2   |  Close Pull Request  |
+| H-3  |  Code Review |
 
-##### Lecciones aprendidas
-
-- Agregar y guardar una tarea.
-- Como hacer un commit en un arhivo específico.
-- Subir un arhivo al servicio de la plataforma de github.
-- Como realizar Pull request
-- Como actualizar tu repositorio local con cambios desde tu repositorio remoto
 
 ##### Observación
 
-La creación del repositorio hg_1_delta se hace con la finalidad de fomentar o poner en prácticas las lecciones aprendidas en el curso de Social Oplesk.
+La creación del repositorio hg_2_Bravo se hace con la finalidad de fomentar o poner en prácticas las lecciones aprendidas en el curso de Social Oplesk.
