@@ -1,4 +1,4 @@
-## **BIENVENIDO AL REPOSITORIO HG_2_BRAVO** 👩‍💻
+## **BIENVENIDO AL REPOSITORIO HG_2_BRAVO** 
 
 ##  Alias Bravo  (Encargado del repositorio)
 
@@ -9,7 +9,7 @@
 | ------------ | ------------ |
 | 1  |  Maria de los Angeles |
 | 2   |  Ronnieris Nadal (Bravo)  |
-| 3  |  Hern�n Farf�n |
+| 3  |  Hernán Farfán |
 | 4  |  Anthony Guaina  |
 
 #####  Actividades a Realizar:
@@ -23,4 +23,4 @@
 
 ##### Observación
 
-La creación del repositorio hg_2_Bravo se hace con la finalidad de fomentar o poner en prácticas las lecciones aprendidas en el curso de Social Oplesk.
+La creación del repositorio hg_2_Bravo se hace con la finalidad de fomentar o poner en practica las lecciones aprendidas en el curso de Social Oplesk.
