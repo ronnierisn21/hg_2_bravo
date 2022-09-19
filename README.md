@@ -7,10 +7,10 @@
 
 |  Integrantes |  Nombres |
 | ------------ | ------------ |
-| 1  |  Maria de los Angeles |
+| 1  |  Hernán Farfán (Alfa) |
 | 2   |  Ronnieris Nadal (Bravo)  |
-| 3  |  Hernán Farfán |
-| 4  |  Anthony Guaina  |
+| 3  |  Anthony Guaina (Charlie) |
+| 4  |  María de los Angeles (Delta)  |
 
 #####  Actividades a Realizar:
 
